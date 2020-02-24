@@ -1,0 +1,11 @@
+{
+  "name": "objects.this",
+  "version": "1.0.0",
+  "description": "Объекты, контекст, this",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
